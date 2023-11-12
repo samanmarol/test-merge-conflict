@@ -1,6 +1,6 @@
 print("hello world")
-print("bye world")
+print("b world")
 
 def saman():
 	print("hello world")
-	return False
+	return True
