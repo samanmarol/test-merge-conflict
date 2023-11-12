@@ -1,6 +1,7 @@
 print("hello world")
 print("bye world")
 
-def saman():
+def sahil():
 	print("hello world")
 	return False
+	
