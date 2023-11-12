@@ -1,7 +1,6 @@
 print("hello world")
-print("bye world")
+print("b world")
 
 def sahil():
 	print("hello world")
 	return False
-	
