@@ -1,2 +1,6 @@
 print("hello world")
-print("yo world")
+print("bye world")
+
+def saman():
+	print("hello world")
+	return False
